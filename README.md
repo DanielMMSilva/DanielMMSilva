@@ -1,7 +1,7 @@
 - 👋Olá, sou @DanielMMSilva
 - 👀 Meu interesse é aprender a programar.
 - 🌱 Eu estou aprendendo Kotlin para criar aplicativos para android.
-- 💞️ Usarei meus esforços para aprender.
+- 💞️ Tenho conhecimento em HTML - CSS - JavaScript
 - 📫 Entre em contato comigo no instagram @danielmmsilva 
 
 
